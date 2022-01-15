@@ -5,7 +5,7 @@ endif
 
 set termguicolors
 set bg=dark
-let g:colors_name = "dominic"
+let g:colors_name = "subunit"
 
 let s:bg="#212121"
 let s:bg_lighter="#262626"
