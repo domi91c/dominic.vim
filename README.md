@@ -1,2 +1,2 @@
-# dominic.vim
-A dark Vim theme
+# subunit.vim
+A minimal dark theme for Vim/Neovim
